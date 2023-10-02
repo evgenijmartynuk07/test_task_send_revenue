@@ -1,0 +1,32 @@
+[
+    {
+        "model": "revenue.revenuestatistic",
+        "pk": 1,
+        "fields": {
+            "name": "Product A",
+            "spend": 3,
+            "date": "2023-09-30",
+            "revenue": "1000.00"
+        }
+    },
+    {
+        "model": "revenue.revenuestatistic",
+        "pk": 2,
+        "fields": {
+            "name": "Product B",
+            "spend": 1,
+            "date": "2023-09-30",
+            "revenue": "750.50"
+        }
+    },
+    {
+        "model": "revenue.revenuestatistic",
+        "pk": 3,
+        "fields": {
+            "name": "Product A",
+            "spend": 2,
+            "date": "2023-10-01",
+            "revenue": "1200.75"
+        }
+    }
+]

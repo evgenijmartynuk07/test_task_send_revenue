@@ -1,0 +1,206 @@
+[
+    {
+        "model": "spend.spendstatistic",
+        "pk": 1,
+        "fields": {
+            "name": "Product A",
+            "date": "2023-09-30",
+            "spend": "500.00",
+            "impressions": 1000,
+            "clicks": 200,
+            "conversion": 10
+        }
+    },
+    {
+        "model": "spend.spendstatistic",
+        "pk": 2,
+        "fields": {
+            "name": "Product B",
+            "date": "2023-09-30",
+            "spend": "750.50",
+            "impressions": 1500,
+            "clicks": 300,
+            "conversion": 15
+        }
+    },
+    {
+        "model": "spend.spendstatistic",
+        "pk": 3,
+        "fields": {
+            "name": "Product A",
+            "date": "2023-10-01",
+            "spend": "600.00",
+            "impressions": 1200,
+            "clicks": 250,
+            "conversion": 12
+        }
+    },
+    {
+        "model": "spend.spendstatistic",
+        "pk": 4,
+        "fields": {
+            "name": "Product B",
+            "date": "2023-10-01",
+            "spend": "800.75",
+            "impressions": 1700,
+            "clicks": 350,
+            "conversion": 18
+        }
+    },
+    {
+        "model": "spend.spendstatistic",
+        "pk": 5,
+        "fields": {
+            "name": "Product A",
+            "date": "2023-10-02",
+            "spend": "700.00",
+            "impressions": 1300,
+            "clicks": 270,
+            "conversion": 11
+        }
+    },
+    {
+        "model": "spend.spendstatistic",
+        "pk": 6,
+        "fields": {
+            "name": "Product B",
+            "date": "2023-10-02",
+            "spend": "900.50",
+            "impressions": 1800,
+            "clicks": 380,
+            "conversion": 16
+        }
+    },
+    {
+        "model": "spend.spendstatistic",
+        "pk": 7,
+        "fields": {
+            "name": "Product A",
+            "date": "2023-10-03",
+            "spend": "750.00",
+            "impressions": 1400,
+            "clicks": 290,
+            "conversion": 13
+        }
+    },
+    {
+        "model": "spend.spendstatistic",
+        "pk": 8,
+        "fields": {
+            "name": "Product B",
+            "date": "2023-10-03",
+            "spend": "1000.25",
+            "impressions": 1900,
+            "clicks": 400,
+            "conversion": 20
+        }
+    },
+    {
+        "model": "spend.spendstatistic",
+        "pk": 9,
+        "fields": {
+            "name": "Product A",
+            "date": "2023-10-04",
+            "spend": "800.00",
+            "impressions": 1500,
+            "clicks": 310,
+            "conversion": 14
+        }
+    },
+    {
+        "model": "spend.spendstatistic",
+        "pk": 10,
+        "fields": {
+            "name": "Product B",
+            "date": "2023-10-04",
+            "spend": "1100.75",
+            "impressions": 2000,
+            "clicks": 420,
+            "conversion": 22
+        }
+    },
+    {
+        "model": "spend.spendstatistic",
+        "pk": 11,
+        "fields": {
+            "name": "Product A",
+            "date": "2023-10-05",
+            "spend": "850.00",
+            "impressions": 1600,
+            "clicks": 330,
+            "conversion": 16
+        }
+    },
+    {
+        "model": "spend.spendstatistic",
+        "pk": 12,
+        "fields": {
+            "name": "Product B",
+            "date": "2023-10-05",
+            "spend": "1200.50",
+            "impressions": 2100,
+            "clicks": 440,
+            "conversion": 24
+        }
+    },
+    {
+        "model": "spend.spendstatistic",
+        "pk": 13,
+        "fields": {
+            "name": "Product A",
+            "date": "2023-10-06",
+            "spend": "900.00",
+            "impressions": 1700,
+            "clicks": 350,
+            "conversion": 18
+        }
+    },
+    {
+        "model": "spend.spendstatistic",
+        "pk": 14,
+        "fields": {
+            "name": "Product B",
+            "date": "2023-10-06",
+            "spend": "1300.75",
+            "impressions": 2200,
+            "clicks": 460,
+            "conversion": 26
+        }
+    },
+    {
+        "model": "spend.spendstatistic",
+        "pk": 15,
+        "fields": {
+            "name": "Product A",
+            "date": "2023-10-07",
+            "spend": "950.00",
+            "impressions": 1800,
+            "clicks": 370,
+            "conversion": 20
+        }
+    },
+    {
+        "model": "spend.spendstatistic",
+        "pk": 16,
+        "fields": {
+            "name": "Product B",
+            "date": "2023-10-07",
+            "spend": "1400.50",
+            "impressions": 2300,
+            "clicks": 480,
+            "conversion": 28
+        }
+    },
+    {
+        "model": "spend.spendstatistic",
+        "pk": 17,
+        "fields": {
+            "name": "Product A",
+            "date": "2023-10-08",
+            "spend": "1000.00",
+            "impressions": 1900,
+            "clicks": 390,
+            "conversion": 22
+        }
+    }
+]
